@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="snap-nodes-cusp-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .error   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <defs
+     id="defs1828" />
+  <sodipodi:namedview
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-others="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="26"
+     inkscape:window-x="0"
+     inkscape:window-height="1020"
+     inkscape:window-width="1920"
+     inkscape:cy="19.119604"
+     inkscape:cx="-24.210393"
+     inkscape:zoom="12.866375"
+     showgrid="true"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <g
+     id="g849">
+    <path
+       style="opacity:0;fill:none"
+       d="M 1.100032e-5,0 H 15.999995 V 16 H 1.100032e-5 Z"
+       id="rect17717"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect170"
+       style="fill:#616161;fill-opacity:1;stroke-width:0"
+       d="M 12.999998,1 V 13 H 1 v 1 h 11.999998 0.999999 V 13 1 Z"
+       class="base" />
+    <path
+       id="rect740"
+       style="fill:#05a2eb;stroke-width:0"
+       d="m 11.000015,10.999956 h 4.000011 v 4.000017 h -4.000011 z"
+       class="error" />
+  </g>
+</svg>

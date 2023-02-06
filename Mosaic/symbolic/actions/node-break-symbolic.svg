@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="node-break-symbolic.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1048" />
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="true"
+     inkscape:zoom="27.441993"
+     inkscape:cx="-0.80169104"
+     inkscape:cy="11.278335"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g3809">
+    <path
+       id="rect235"
+       style="opacity:1;fill:#616161;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       d="m 0,12 v 1 h 3 v -1 z m 12,0 v 1 h 3 v -1 z"
+       class="base"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="rect7910"
+       style="opacity:0;fill:#616161;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       d="M 0,0 V 16 H 16 V 0 Z" />
+    <path
+       id="rect882"
+       style="fill:#616161;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       class="base"
+       d="M 5 1 L 5 3 L 0 3 L 0 4 L 5 4 L 5 6 L 10 6 L 10 4 L 15 4 L 15 3 L 10 3 L 10 1 L 5 1 z " />
+    <path
+       id="path190"
+       style="fill:#05a2eb;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       d="m 2,10 v 5 h 4 v -5 z m 7,0 v 5 h 4 v -5 z"
+       class="error"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

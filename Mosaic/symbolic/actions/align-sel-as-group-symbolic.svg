@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg1"
+   width="16"
+   height="16"
+   version="1.1"
+   sodipodi:docname="align-sel-as-group-symbolic.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .error   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:showpageshadow="false"
+     inkscape:snap-global="true"
+     id="base"
+     showgrid="true"
+     inkscape:zoom="32"
+     inkscape:cx="1.09375"
+     inkscape:cy="10.140625"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     pagecolor="#eeeeee"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0pt"
+       originy="0pt"
+       spacingx="1"
+       spacingy="1"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3" />
+  <g
+     id="g342">
+    <path
+       id="rect1095"
+       style="opacity:0;fill:#616161;fill-opacity:1;stroke-width:0.687"
+       d="M 0 0 L 0 16 L 16 16 L 16 0 L 0 0 z " />
+    <path
+       id="rect22042"
+       style="fill:#616161;stroke-width:0.71562"
+       class="base"
+       d="M 1,1 V 15 H 7 V 1 Z m 8,0 v 6 h 6 V 1 Z M 2,2 H 6 V 14 H 2 Z m 8,0 h 4 V 6 H 10 Z M 9,9 v 6 h 6 V 9 Z m 1,1 h 4 v 4 h -4 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

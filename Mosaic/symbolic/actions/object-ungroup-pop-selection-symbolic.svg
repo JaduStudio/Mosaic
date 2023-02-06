@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="object-ungroup-pop-selection-symbolic.svg"
+   version="1.1"
+   height="16"
+   width="16"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:cy="14.300368"
+     inkscape:cx="-6.8264368"
+     inkscape:zoom="27.027277"
+     showgrid="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       empspacing="5"
+       empopacity="0.38"
+       opacity="0.15"
+       empcolor="#3f3fff"
+       color="#3f3fff"
+       spacingy="1"
+       spacingx="1"
+       originy="0pt"
+       originx="0pt"
+       type="xygrid"
+       id="GridFromPre046Settings" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient5704">
+      <stop
+         style="stop-color:#5a5a5a;stop-opacity:1"
+         offset="0"
+         id="stop5706" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop5708" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient24464">
+      <stop
+         style="stop-color:#499204;stop-opacity:1"
+         offset="0"
+         id="stop24466" />
+      <stop
+         style="stop-color:#a7e26e;stop-opacity:1"
+         offset="1"
+         id="stop24468" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5740">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5742" />
+      <stop
+         style="stop-color:#98b6d3;stop-opacity:1"
+         offset="1"
+         id="stop5744" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g215">
+    <path
+       id="rect428"
+       style="fill:#616161;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="M 5,1 V 11 H 15 V 1 Z m 1,1 h 8 v 8 H 6 Z"
+       class="base"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="rect8607"
+       style="opacity:0;fill:#616161;fill-opacity:1;stroke-width:0.687"
+       d="M 0,0 V 16 H 16 V 0 Z" />
+    <path
+       id="rect426"
+       style="fill:#05a2eb;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="M 0,5 V 16 H 11 V 5 Z m 1,1 h 9 v 9 H 1 Z"
+       class="error"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

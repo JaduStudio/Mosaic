@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="align-on-canvas-symbolic.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="40.333305,14.3333"
+       origin="39.3333,14.3333"
+       id="path-effect860"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="40.333305,14.3333"
+       origin="39.3333,14.3333"
+       id="path-effect858"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+  </defs>
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-4.331029"
+     inkscape:cy="11.114835"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-maximized="1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g555">
+    <path
+       id="rect7334"
+       style="opacity:0;fill:#616161"
+       d="M 0 0 L 0 16 L 16 16 L 16 0 L 0 0 z " />
+    <path
+       id="path6054"
+       style="fill:#05a2eb;fill-opacity:1;stroke:none;stroke-width:0"
+       class="error"
+       d="M 13 1 L 11 4 L 13 5 L 15 4 L 13 1 z M 2 2 L 2.8789062 5.7070312 L 5 5 L 5.7070312 2.8789062 L 2 2 z M 4 11 L 1 13 L 4 15 L 5 13 L 4 11 z " />
+    <path
+       id="path2007"
+       style="fill:#616161;fill-opacity:1;stroke-width:1"
+       class="base"
+       d="m 7,7 v 3 H 8 V 8 h 2 V 7 Z m 6,0 v 1 h 3 V 7 Z m -6,6 v 3 h 1 v -3 z"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+</svg>

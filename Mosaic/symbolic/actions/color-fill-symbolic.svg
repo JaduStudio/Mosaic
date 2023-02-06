@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="color-fill-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .error   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <defs
+     id="defs850">
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect874"
+       is_visible="true"
+       linecap_type="butt"
+       line_width="1.3"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="1.3"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect870"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="1.3"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect866"
+       effect="join_type" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect873"
+       is_visible="true"
+       linecap_type="butt"
+       line_width="1"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="1"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect869"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="0.87"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect865"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="1.5"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect134"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="1.5"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect131"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="1.3"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect241"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="1.2"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect239"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="1.3"
+       linecap_type="round"
+       is_visible="true"
+       id="path-effect237"
+       effect="join_type" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="2.8299999"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect6020"
+       effect="join_type" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect6006"
+       is_visible="true"
+       linecap_type="round"
+       line_width="2.8299999"
+       linejoin_type="round"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="2.8299999"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect5987"
+       effect="join_type" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect134-3"
+       is_visible="true"
+       linecap_type="butt"
+       line_width="1.3"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-others="false"
+     inkscape:snap-global="true"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="true"
+     inkscape:zoom="38.573823"
+     inkscape:cx="3.4608963"
+     inkscape:cy="6.9217926"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g880">
+    <path
+       id="rect1663"
+       style="opacity:0;fill:#616161;fill-opacity:1;stroke-width:0"
+       d="M 0,0 H 16 V 16 H 0 Z" />
+    <path
+       id="path879"
+       style="opacity:0.1;fill:#616161;fill-opacity:1;stroke-width:0"
+       d="M 5.0000002,2 H 13.999999 V 14 H 5.0000002 Z"
+       class="base" />
+    <path
+       id="rect294"
+       style="fill:#616161;stroke-width:0"
+       d="M 1,1 V 9 H 2 V 2 H 4 V 15 H 15 V 2 h 1 V 1 Z m 4,1 h 9 V 14 H 5 Z"
+       sodipodi:nodetypes="cccccccccccccccc"
+       class="base" />
+    <path
+       id="rect963"
+       style="opacity:0.6;fill:#616161;fill-opacity:1;stroke-width:0"
+       d="M 6.0000002,7.9999998 H 13 V 13 H 6.0000002 Z"
+       class="base" />
+  </g>
+</svg>

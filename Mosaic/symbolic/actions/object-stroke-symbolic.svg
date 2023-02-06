@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="object-stroke-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2615" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:cy="8.8205662"
+     inkscape:cx="-1.9773199"
+     inkscape:zoom="29.079766"
+     showgrid="true"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g2215">
+    <path
+       style="opacity:0;fill:none;stroke-width:1.33333"
+       d="M -3.94e-4,-1.0117842e-4 H 15.999602 V 15.999871 H -3.94e-4 Z"
+       id="rect20531"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect20533"
+       d="M 2.0000055,2.0000108 V 14.00007 H 14.000136 L 14.000002,2.0000108 Z M 3,3 H 13 V 13 H 3 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       class="base"
+       style="fill:#616161;fill-opacity:1;stroke-width:1.33333" />
+  </g>
+</svg>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="draw-geometry-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs976">
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect1086"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="round"
+       line_width="1"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="8.00004,6.333365"
+       end_point="8.00004,15.000075"
+       center_point="8.00004,10.66672"
+       id="path-effect1161"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       lpesatellites="" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect3137"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="1.2"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:cy="17.90625"
+     inkscape:cx="-13.71875"
+     inkscape:zoom="16"
+     showgrid="true"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     inkscape:snap-global="true"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingx="0.66667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <g
+     id="g893">
+    <rect
+       style="fill:#616161;fill-opacity:1;paint-order:fill markers stroke;opacity:0"
+       id="rect886"
+       width="16.00008"
+       height="16.00008"
+       x="0"
+       y="0" />
+    <path
+       id="path835"
+       style="fill:#616161;fill-opacity:1;stroke-width:0.999997;paint-order:fill markers stroke"
+       d="M 10.487694,8.6674139 13.95313,14.667485 12.413166,14.667459 9.33338,9.3334047 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect238"
+       style="fill:#616161;fill-opacity:1;stroke-width:1;paint-order:fill markers stroke"
+       d="M 7.3339844 1.3339844 L 7.3339844 4 L 8.6660156 4 L 8.6660156 1.3339844 L 7.3339844 1.3339844 z " />
+    <path
+       id="rect245"
+       style="fill:#616161;fill-opacity:1;stroke-width:0.999997;paint-order:fill markers stroke"
+       d="M 5.5507813,8.6666947 2.0853456,14.666765 3.6253098,14.66674 6.7050951,9.3326854 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path240"
+       style="fill:#05a2eb;paint-order:fill markers stroke"
+       d="M 7.9990234,3.3327103 A 3.3333499,3.3333499 0 0 0 4.6669922,6.6666947 3.3333499,3.3333499 0 0 0 7.9990234,10.000679 3.3333499,3.3333499 0 0 0 11.333008,6.6666947 3.3333499,3.3333499 0 0 0 7.9990234,3.3327103 Z m 0,1.3339844 a 2.00001,2.00001 0 0 1 2.0000004,2 2.00001,2.00001 0 0 1 -2.0000004,2 2.00001,2.00001 0 0 1 -2,-2 2.00001,2.00001 0 0 1 2,-2 z" />
+  </g>
+</svg>

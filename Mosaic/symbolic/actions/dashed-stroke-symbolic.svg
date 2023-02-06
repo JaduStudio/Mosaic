@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="dashed-stroke-symbolic.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1929">
+    <inkscape:path-effect
+       message="Add &lt;b&gt;&quot;Fill Between Many LPE&quot;&lt;/b&gt; to add fill."
+       unifysegment="true"
+       halfextreme="true"
+       splitsegments="true"
+       holefactor="0"
+       numberdashes="3"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1393"
+       effect="dashed_stroke" />
+  </defs>
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-8.2643105"
+     inkscape:cy="9.7006212"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:document-rotation="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g754">
+    <path
+       id="rect749"
+       style="opacity:0;fill:#616161;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       d="M 0 0 L 0 16 L 16 16 L 16 0 L 0 0 z " />
+    <path
+       id="rect157"
+       style="fill:#616161;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       d="M 0 7 L 0 9 L 4 9 L 4 7 L 0 7 z M 6 7 L 6 9 L 10 9 L 10 7 L 6 7 z M 12 7 L 12 9 L 16 9 L 16 7 L 12 7 z " />
+  </g>
+</svg>

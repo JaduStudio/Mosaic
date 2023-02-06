@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="bounding-box-symbolic.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs915">
+    <inkscape:path-effect
+       effect="bounding_box"
+       id="path-effect1100"
+       is_visible="true"
+       lpeversion="1"
+       linkedpath="#path1098"
+       visualbounds="false" />
+    <inkscape:path-effect
+       effect="bounding_box"
+       id="path-effect1100-3"
+       is_visible="true"
+       lpeversion="1"
+       linkedpath=""
+       visualbounds="false" />
+    <inkscape:path-effect
+       effect="bounding_box"
+       id="path-effect1100-7"
+       is_visible="true"
+       lpeversion="1"
+       linkedpath=""
+       visualbounds="false" />
+  </defs>
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-4.4415145"
+     inkscape:cy="9.7448153"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="0.66667"
+       spacingy="0.66667"
+       originx="0"
+       originy="16" />
+  </sodipodi:namedview>
+  <g
+     id="g2819">
+    <path
+       id="rect1975"
+       style="opacity:0;fill:#616161;fill-opacity:1;stroke-width:0.687"
+       d="M 0,0 V 16 H 16 V 0 Z" />
+    <path
+       id="rect1189"
+       style="fill:#616161;stroke-width:0.687"
+       d="M 1.9999599,2.0000399 V 2.6660555 4.0000399 H 2.6659755 V 2.6660555 H 3.9999599 V 2.0000399 H 2.6659755 Z m 3.3339844,0 v 0.6660156 h 2 V 2.0000399 Z m 3.3320312,0 V 2.6660555 H 10.665976 V 2.0000399 Z m 3.3339845,0 v 0.6660156 h 1.333984 v 1.3339844 h 0.666016 v -2 z M 1.9999599,5.3340243 v 2 h 0.6660156 v -2 z m 11.3339841,0 v 2 h 0.666016 v -2 z M 1.9999599,8.6660555 V 10.666056 H 2.6659755 V 8.6660555 Z m 11.3339841,0 V 10.666056 H 13.99996 V 8.6660555 Z M 1.9999599,12.00004 v 2 H 2.6659755 3.9999599 V 13.334024 H 2.6659755 V 12.00004 Z m 11.3339841,0 v 1.333984 H 11.99996 v 0.666016 h 2 V 13.334024 12.00004 Z m -7.9999997,1.333984 v 0.666016 h 2 v -0.666016 z m 3.3320312,0 v 0.666016 h 2.0000005 v -0.666016 z"
+       class="base" />
+    <path
+       id="rect1221"
+       style="fill:#05a2eb;fill-opacity:1;stroke-width:0.687"
+       d="M 7.9999599,4.00004 3.99996,8.0000399 7.9999602,12.00004 11.99996,8.0000402 Z"
+       class="error" />
+  </g>
+</svg>

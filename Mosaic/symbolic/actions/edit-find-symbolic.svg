@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="edit-find-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect1338"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="1.34"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="24.705771"
+     inkscape:cx="-9.8155204"
+     inkscape:cy="10.321475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid829"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g340">
+    <path
+       id="rect3412-3"
+       style="opacity:0;fill:#616161;stroke-width:1"
+       d="M 1.4143456e-7,6.595858e-8 V 16 H 16 V 6.595858e-8 Z"
+       class="base" />
+    <path
+       id="path193"
+       style="fill:#616161;stroke-width:0"
+       d="M 7.5,0 A 7.5,7.5 0 0 0 0,7.5 7.5,7.5 0 0 0 7.5,15 7.5,7.5 0 0 0 12.4375,13.144531 L 15.292969,16 16,15.292969 13.144531,12.4375 A 7.5,7.5 0 0 0 15,7.5 7.5,7.5 0 0 0 7.5,0 Z m 0,1 A 6.5,6.5 0 0 1 14,7.5 6.5,6.5 0 0 1 7.5,14 6.5,6.5 0 0 1 1,7.5 6.5,6.5 0 0 1 7.5,1 Z" />
+  </g>
+</svg>

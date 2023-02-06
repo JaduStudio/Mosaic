@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="distribute-horizontal-left-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2743" />
+  <sodipodi:namedview
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:cy="8.7285786"
+     inkscape:cx="0.26410223"
+     inkscape:zoom="37.864126"
+     showgrid="true"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingy="1"
+       spacingx="1" />
+  </sodipodi:namedview>
+  <g
+     id="g1124">
+    <path
+       id="rect1306"
+       style="opacity:0;fill:#616161;fill-opacity:1;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.395955;paint-order:fill markers stroke"
+       d="m 16.000022,-6e-7 h -16 V 15.999999 h 16 z" />
+    <path
+       id="rect868"
+       style="fill:#00aaff;stroke-width:0.775787"
+       class="error"
+       d="m 10.999946,9.0000774 h 3.999996 V 16.00008 h -3.999996 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect870"
+       style="fill:#00aaff;stroke-width:0.81144"
+       class="error"
+       d="m 1.9999434,6.0000759 h 3.999996 V 16.00008 h -3.999996 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect874"
+       style="fill:#616161;fill-opacity:1;stroke-width:0.717134"
+       class="base"
+       d="m -5.56e-5,1.0000734 h 0.999996 v 2.000001 h 3.000001 V 4.0000749 H 0.9999404 V 16.00008 H -5.56e-5 V 4.0000749 3.0000744 Z" />
+    <path
+       id="path1132"
+       style="fill:#616161;fill-opacity:1;stroke-width:0.717134"
+       class="base"
+       d="m 8.9999407,1.0000734 h 1.0000025 v 2.000001 H 12.999944 V 4.0000749 H 9.9999432 V 16.00008 H 8.9999407 V 4.0000749 3.0000744 Z" />
+  </g>
+</svg>

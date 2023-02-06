@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="xml-element-new-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1203" />
+  <sodipodi:namedview
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:cy="8.921875"
+     inkscape:cx="-1.34375"
+     inkscape:zoom="32"
+     showgrid="true"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="g9294">
+    <rect
+       style="opacity:0;fill:#616161;fill-opacity:1;paint-order:fill markers stroke"
+       id="rect4804"
+       width="16.00008"
+       height="16.00008"
+       x="0"
+       y="0" />
+    <path
+       id="rect4471-9"
+       class="base"
+       d="M 7.333933,2.00001 V 6.000006 H 3.3339976 V 7.332038 H 7.333933 V 11.33204 H 8.6660003 V 7.332038 H 12.666002 V 6.000006 H 8.6660003 V 2.00001 Z"
+       style="fill:#616161;stroke-width:0.666667" />
+    <path
+       id="rect7044"
+       style="opacity:1;fill:#05a2eb;fill-opacity:1;paint-order:fill markers stroke"
+       d="M 9.4285508 3.2662257 L 9.4271697 5.9330678 L 9.4285508 6.6001236 L 10.094226 6.6001236 L 12.761068 6.5987426 L 12.761068 5.9330678 L 10.092844 5.9330678 L 10.094226 3.2662257 L 9.4285508 3.2662257 z M 14.579934 -1.8851577 L 14.579934 -1.219483 L 17.246776 -1.2208641 L 17.246776 1.4473592 L 17.912451 1.4473592 L 17.913832 -1.219483 L 17.913832 -1.8851577 L 17.246776 -1.8865388 L 14.579934 -1.8851577 z "
+       transform="rotate(45)"
+       class="error" />
+  </g>
+</svg>
