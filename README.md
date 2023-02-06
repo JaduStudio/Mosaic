@@ -9,9 +9,9 @@ Mosaic is a modern icon replacement for Inkscape 1.2.x, which is designed based 
 
 1. Download and extract zip file
 
-2. Copy Mosaic folder to Inkscape user icons path
-   for Linux/MacOS users : ~/.config/inkscape/icons/
-   for Windows users : C:\Program Files\Inkscape\share\icons\
+2. Copy Mosaic folder to Inkscape user icons path \
+   Linux/MacOS : ~/.config/inkscape/icons/ \
+   Windows users : C:\Program Files\Inkscape\share\icons\
 
    You can find Inkscape user icon path from Edit > Preferences > Interface > Theming > User Icons
 
